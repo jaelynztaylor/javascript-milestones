@@ -1,6 +1,6 @@
-/* Javascript Milestones: Numbers Edition
+/* Javascript Milestones: Numbers Edition, Pt. 1
 Notes on this file found in numbers.txt
-
+Basic number operations
 */
 
 function addNumbers(num1, num2){
