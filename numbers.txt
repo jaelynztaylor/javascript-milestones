@@ -1,0 +1,11 @@
+Notes on numbers.js
+
+Operations to demostrate:
++ -- C
+- -- C
+* -- C
+/ -- C
+% -- C
+**-- C
+Math.floor(num1/num2) -- C
+  Note on Math.floor operator: remember negative numbers! -4 < -3 lol
