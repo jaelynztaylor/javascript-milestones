@@ -1,0 +1,12 @@
+Notes on objects.js
+
+Objects are variables that contain variables in 
+Javascript (similar to how functions are also variables)
+
+Objects are made of name/key, value pairs.
+
+Examples: {firstName: 'Jaelyn', lastName:'Taylor'}
+
+Colons (:) separate names and values
+Commas (,) separate name:value pairs
+
