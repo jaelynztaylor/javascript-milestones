@@ -13,8 +13,6 @@ function stringFeatures(waffle , k){ //this fucntion will show a bunch of differ
   console.log(`6. To find the last character of a string, do [string].length - 1: ${waffle[waffle.length-1]}`)
   console.log(`7. k is a character place in the string. Let k = ${k}. To find what value is at k, the syntax is the same as the finding the first or second character: ${waffle[k]}`)
   console.log(`8. To add to the end of a string, use the + operator: ${waffle + 'a'}`)
-
-
 } 
 
 stringFeatures('fuck this shit im out', 7)
