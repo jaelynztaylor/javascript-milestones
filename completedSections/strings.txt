@@ -1,0 +1,7 @@
+Notes on Strings Milestone Exercises
+
+printStrings and concatenate strings: what's the difference tbh
+  i guess it's the space in between, i had to manually print that out
+
+stringIncludes
+  very case sensitve, didn't expect that
